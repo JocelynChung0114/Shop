@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617339280478",
+    "firebase_url": "https://shop-9b3ef.firebaseio.com",
+    "project_id": "shop-9b3ef",
+    "storage_bucket": "shop-9b3ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617339280478:android:84ecb1e0d6a2e0d0",
+        "android_client_info": {
+          "package_name": "com.toplogis.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617339280478-cri4ia8ko8tg9236t344179hs9rdsh6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toplogis.shop",
+            "certificate_hash": "7e66cc444f518d23f76e920bde236b47e02e7969"
+          }
+        },
+        {
+          "client_id": "617339280478-1mjpl1h9i60f47443bi9h7otoq542v0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYPlkBLeyLmP4cmhuVC2ZKD6VfOHBmKEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617339280478-1mjpl1h9i60f47443bi9h7otoq542v0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
